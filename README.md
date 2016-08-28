@@ -1,2 +1,0 @@
-# simple-program-dede
-cece
